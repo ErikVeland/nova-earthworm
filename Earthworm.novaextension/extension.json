@@ -3,7 +3,7 @@
   "name": "Earthworm",
   "vendor": "GenErik",
   "description": "Port of Ian Beck's Espresso theme",
-  "version": "1.0",
+  "version": "1.0.1",
   "categories": ["themes"],
   "repository": "https://github.com/erikveland/nova-earthworm",
   "license": "MIT",

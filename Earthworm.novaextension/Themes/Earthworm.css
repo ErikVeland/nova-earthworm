@@ -173,7 +173,7 @@ identifier.key {
   color: #abc837;
 }
 identifier.argument {
-  color: #e8bf6a;
+  color: #fff;
 }
 
 /* Strings */
@@ -262,11 +262,11 @@ tag.attribute.value.link {
 
 /* Styles */
 style.at {
-  color: #fff;
+  color: #e8bf6a;
   font-weight: bold;
 }
 style.selector.element {
-  font-weight: bold;
+  color: #cdde87;
 }
 style.selector.identifier.id {
   color: #cdde87;
